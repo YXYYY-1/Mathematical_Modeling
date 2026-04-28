@@ -1,0 +1,5 @@
+模型名称: Gradient Boosting
+测试集 R²: 0.1398
+测试集 RMSE: 0.7678
+测试集 MAE: 0.5441
+测试集 MAPE: 9.77%
